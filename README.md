@@ -1,6 +1,6 @@
-# PowerBI example reports using PowerQuery, DAX and Tabular Editor
+# PowerBI example reports <br>using PowerQuery, DAX and Tabular Editor
 
-This reporistory shows some small PowerBI examples for showing some techniques in PowerQuery, DAX and PowerBI
+This reporistory contains some small PowerBI examples for showing some techniques in PowerQuery, DAX and PowerBI.
 
 ## "Bicycle Count" report:
 This small and highly interactive PowerBI example shows the count of bicycles passing 6 distinct places in Munich and the weather (rain, min. and max. temperature) on each day.
