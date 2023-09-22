@@ -26,7 +26,7 @@ This is a report for analyzing the sales data of a supermarket. The report conta
 
 Techniques implemented:<br>
 ➡️Creating a customized calender with a CSX Script in Tabular Editor (which uses min and max of the Ship-Date of the dataset)<br>
-➡️Defining measures using DAX (abs./rel. trends and totals) and hierarchies (e.g. for Region/State/City) and calculated columns (Customer and ID). <br>
+➡️Defining measures using DAX (abs./rel. trends and totals) and hierarchies (e.g. for Region/State/City) and calculated columns (Customer&ID). <br>
 ➡️Using different kinds of interactive visuals (bar, line, maps, treemap) to analyze the data. Please click on the visuals and see how the other reveal more information about your selected item. <br>
 ➡️Contains "Color Coding" for trends and stars for customers.<br>
 
