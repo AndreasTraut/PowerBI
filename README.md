@@ -24,11 +24,11 @@ https://www.linkedin.com/posts/activity-7110331190351384577-Fvod?utm_source=shar
 
 This is a report for analyzing the sales data of a supermarket. The report contains three pages: Report page "Overview" compares the regions/states and gives indications about the development in the different states/cites and categories (e.g. Technology), subcategories and segments (Consumer, Corporate, Home).  Reporting page "Time Analysis" reveals more information on the development and contains also trends (absolute and relative) compared to the previous year. The third reporting page "Customer Analysis" compares all costumers.
 
-Techniques implemented:
-➡️Creating a customized calender with a CSX Script in Tabular Editor (which uses min and max of the Ship-Date of the dataset)
-➡️Defining measures using DAX (abs./rel. trends and totals) and hierarchies (e.g. for Region/State/City) and calculated columns (Customer and ID). 
-➡️Using different kinds of interactive visuals (bar, line, maps, treemap) to analyze the data. Please click on the visuals and see how the other reveal more information about your selected item. 
-➡️Contains "Color Coding" for trends and stars for customers.
+Techniques implemented:<br>
+➡️Creating a customized calender with a CSX Script in Tabular Editor (which uses min and max of the Ship-Date of the dataset)<br>
+➡️Defining measures using DAX (abs./rel. trends and totals) and hierarchies (e.g. for Region/State/City) and calculated columns (Customer and ID). <br>
+➡️Using different kinds of interactive visuals (bar, line, maps, treemap) to analyze the data. Please click on the visuals and see how the other reveal more information about your selected item. <br>
+➡️Contains "Color Coding" for trends and stars for customers.<br>
 
 Datasource: https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales (OpenData Commons)
 
