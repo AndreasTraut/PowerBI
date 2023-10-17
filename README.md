@@ -1,7 +1,7 @@
 # PowerBI example reports <br>using PowerQuery, DAX and Tabular Editor
 
 This repository contains come PowerBI example reports using PowerQuery, DAX and Tabular Editor. You can open my PowerBI report on the novyPro page without installing anything. <br>
-https://www.novypro.com/profile_projects/andreastraut
+[https://www.novypro.com/profile_projects/andreastraut](https://www.novypro.com/profile_about/andreastraut)
 
 ## "Bicycle Count" report:
 This small and highly interactive PowerBI example shows the count of bicycles passing 6 distinct places in Munich and the weather (rain, min. and max. temperature) on each day.
