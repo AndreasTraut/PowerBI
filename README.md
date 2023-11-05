@@ -33,7 +33,29 @@ Techniques implemented:<br>
 
 Datasource: https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales (OpenData Commons)
 
-I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): https://www.novypro.com/project/superstore-sales-6
-
 See also my LinkedIn post:<br>
 https://www.linkedin.com/posts/activity-7110992649116950530-LvqS?utm_source=share&utm_medium=member_desktop
+
+## "Onyx Data Challenge": Youtube report in PowerBI
+
+This is my participation for the "Onyx Dataset Challenge" as of November 2023. My PowerBI report contains: 
+➡️Data cleaning in PowerQuery. Scaling of measures (like "Population" in millions). Creating "Created Data" column. 
+➡️Splitting of raw dataset into a country dimension and a fact dataset. 
+➡️Building a very simple datamodel with country dimension and fact dataset.
+➡️Creating different DAX measures (max, min, average, sum, ...). 
+➡️Implementing a customer friendly possibility to scale the measures (like highest earning) in Thousand/K or Millions/M by using DAX calculation group. 
+➡️Building highly interactive tables for analyzing country and youtubers using maps, cards, filters creation time, categories and channel types.
+
+The model has 24 MB, 5 Tables, 63 columns. Calculation time for the whole report in total is about 180ms for formula engine. The remaining time is mostly rendering and waiting for other visuals to complete.
+
+👉 Please click somewhere in the tables and see how the others interact!
+👉 Use the "sort by" possibility to navigate through the data.
+
+I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): https://www.novypro.com/project/onyx-dataset-challenge---youtuber-
+
+Datasource: https://onyxdata.co.uk/data-dna-dataset-challenge/
+
+See also my LinkedIn post:<br>
+https://www.linkedin.com/posts/activity-7126906747499212800-B_AE?utm_source=share&utm_medium=member_desktop
+
+
