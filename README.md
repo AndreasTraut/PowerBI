@@ -39,12 +39,12 @@ https://www.linkedin.com/posts/activity-7110992649116950530-LvqS?utm_source=shar
 ## "Onyx Data Challenge": Youtube report in PowerBI
 
 This is my participation for the "Onyx Dataset Challenge" as of November 2023. My PowerBI report contains: 
-➡️Data cleaning in PowerQuery. Scaling of measures (like "Population" in millions). Creating "Created Data" column. 
-➡️Splitting of raw dataset into a country dimension and a fact dataset. 
-➡️Building a very simple datamodel with country dimension and fact dataset.
-➡️Creating different DAX measures (max, min, average, sum, ...). 
-➡️Implementing a customer friendly possibility to scale the measures (like highest earning) in Thousand/K or Millions/M by using DAX calculation group. 
-➡️Building highly interactive tables for analyzing country and youtubers using maps, cards, filters creation time, categories and channel types.
+➡️Data cleaning in PowerQuery. Scaling of measures (like "Population" in millions). Creating "Created Data" column. <br>
+➡️Splitting of raw dataset into a country dimension and a fact dataset. <br>
+➡️Building a very simple datamodel with country dimension and fact dataset.<br>
+➡️Creating different DAX measures (max, min, average, sum, ...). <br>
+➡️Implementing a customer friendly possibility to scale the measures (like highest earning) in Thousand/K or Millions/M by using DAX calculation group. <br>
+➡️Building highly interactive tables for analyzing country and youtubers using maps, cards, filters creation time, categories and channel types.<br>
 
 The model has 24 MB, 5 Tables, 63 columns. Calculation time for the whole report in total is about 180ms for formula engine. The remaining time is mostly rendering and waiting for other visuals to complete.
 
