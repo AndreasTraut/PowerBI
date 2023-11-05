@@ -48,7 +48,7 @@ This is my participation for the "Onyx Dataset Challenge" as of November 2023. M
 
 The model has 24 MB, 5 Tables, 63 columns. Calculation time for the whole report in total is about 180ms for formula engine. The remaining time is mostly rendering and waiting for other visuals to complete.
 
-👉 Please click somewhere in the tables and see how the others interact!
+👉 Please click somewhere in the tables and see how the others interact!<br>
 👉 Use the "sort by" possibility to navigate through the data.
 
 I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): https://www.novypro.com/project/onyx-dataset-challenge---youtuber-
