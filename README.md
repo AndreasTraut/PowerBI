@@ -72,7 +72,7 @@ My PowerBI report contains: <br>
 ➡️Creating highly interactive and easy understandable report pages which show YoY, MoM and continues data series. Using different visuals, buttons & bookmarks. <br>
  <br>
 Datasources: <br>
-Worldkbank: https://databank.worldbank.org/home.aspx, Series: GDP (currenct US$), Consumer price index (2010=100), Inflation, consumer prices (annual %), Format: Excel (CSV and Text also available), File: P_Data_Extract_From_World_Development_Indicators.xlsx <br>
+Worldbank: https://databank.worldbank.org/home.aspx, Series: GDP (currenct US$), Consumer price index (2010=100), Inflation, consumer prices (annual %), Format: Excel (CSV and Text also available), File: P_Data_Extract_From_World_Development_Indicators.xlsx <br>
 Ifo-Insitute: https://www.ifo.de/ifo-zeitreihen, Series: Geschäftklimaindex (business climate index), Format: Excel, File: gsk-d-202310.xlsx  <br>
 WSJ-Markets: https://www.wsj.com/market-data/quotes/index/DX/DAX/historical-prices, Series: DAX-Index, Format: CSV, File: HistoricalPrices.csv  <br>
 Internal Datasources: the orders of customers. A fact-table of orders (Fact_Orders.xlsx) and a client dimension (Clients.xlsx) with random numbers to illustrate the approach.  <br>
