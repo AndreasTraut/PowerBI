@@ -83,8 +83,8 @@ Ifo-Insitute: https://www.ifo.de/ifo-zeitreihen <br>
 Series: Geschäftklimaindex (business climate index) <br>
 Format: Excel <br>
 File: gsk-d-202310.xlsx  <br>
-WSJ-Markets: https://www.wsj.com/market-data/quotes/index/DX/DAX/historical-prices <br>
  <br>
+WSJ-Markets: https://www.wsj.com/market-data/quotes/index/DX/DAX/historical-prices <br>
 Series: DAX-Index <br>
 Format: CSV <br>
 File: HistoricalPrices.csv  <br>
