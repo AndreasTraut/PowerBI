@@ -58,4 +58,41 @@ Datasource: https://onyxdata.co.uk/data-dna-dataset-challenge/
 See also my LinkedIn post:<br>
 https://www.linkedin.com/posts/activity-7126906747499212800-B_AE?utm_source=share&utm_medium=member_desktop
 
+## Economic Data Project
+You want to understand the impact of economic data like GDP, inflation rate or business climate index on your business? <br>
+Analysing your own internal business numbers, like “Turnover” for different countries, is not too difficult. It requires a Datawarehouse & PowerBI and a Data Analyst. But knowing if the changes in these “Turnover” numbers correlate to economic data, like GDP, inflation rate, population size and finally drawing meaningful conclusions is a bit more difficult. If you don’t have Data Scientists or Mathematicians in your company it is a challenge. <br>
+<br>
+Why is it extremely helpful to know these relationships between your “internal data” (e.g. Turnover) and “external data” (e.g. economic data)? Because it is useful for a better plannability of ordered quantities of your products, for a better estimation of financial reserves and a more efficient stock management. <br>
+ <br>
+But how to approach this question? <br>
+If you are not familiar with correlation, variance, stochastic processes, simulation based mathematical models, then I recommend to simply start with a small PowerBI report like mine.   <br>
+
+My PowerBI report contains: <br>
+➡️Integrating raw data from different external data sources (e.g. Worldbank, Ifo-Institute,…). Data cleaning, pivotization (where needed) and merging the different data sources in order to achieve one (key,value)-fact-table.  <br>
+➡️Extracting dimensions out of the raw data, like „country“- and „series“-dimension for being used in a star-schema model in the data model. <br>
+➡️Defining a generic calendar table with DAX code. Define (1:n)-relationships to the fact-tables, where you aligned the different date-formats. Implementing DAX formulas for minimum and maximum, changes and averages.  <br>
+➡️Creating highly interactive and easy understandable report pages which show YoY, MoM and continues data series. Using different visuals, buttons & bookmarks. <br>
+ <br>
+Datasources: <br>
+Worldkbank: https://databank.worldbank.org/home.aspx <br>
+Series: GDP (currenct US$), Consumer price index (2010=100), Inflation, consumer prices (annual %) <br>
+Format: Excel (CSV and Text also available) <br>
+File: P_Data_Extract_From_World_Development_Indicators.xlsx <br>
+ <br>
+Ifo-Insitute: https://www.ifo.de/ifo-zeitreihen <br>
+Series: Geschäftklimaindex (business climate index) <br>
+Format: Excel <br>
+File: gsk-d-202310.xlsx  <br>
+WSJ-Markets: https://www.wsj.com/market-data/quotes/index/DX/DAX/historical-prices <br>
+ <br>
+Series: DAX-Index <br>
+Format: CSV <br>
+File: HistoricalPrices.csv  <br>
+ <br>
+Internal Datasources: the orders of customers. A fact-table of orders (Fact_Orders.xlsx) and a client dimension (Clients.xlsx) with random numbers to illustrate the approach.  <br>
+ <br> 
+I published my PowerBI report on novyPro, which is a nice platform for data analysts. You can open and work with my PowerBI report on the novyPro page without installing anything. If you want to download the source and coding of my work, then use the GitHub page. <br>
+novyPro: https://www.novypro.com/project/economic-report <br>
+ <br>
+ 
 
