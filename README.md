@@ -38,7 +38,7 @@ https://www.linkedin.com/posts/activity-7110992649116950530-LvqS?utm_source=shar
 
 ## "Onyx Data Challenge": Youtube report in PowerBI
 
-This is my participation for the "Onyx Dataset Challenge" as of November 2023. My PowerBI report contains: 
+This is my participation for the "Onyx Dataset Challenge" as of November 2023. My PowerBI report contains: <br>
 ➡️Data cleaning in PowerQuery. Scaling of measures (like "Population" in millions). Creating "Created Data" column. <br>
 ➡️Splitting of raw dataset into a country dimension and a fact dataset. <br>
 ➡️Building a very simple datamodel with country dimension and fact dataset.<br>
@@ -59,13 +59,11 @@ See also my LinkedIn post:<br>
 https://www.linkedin.com/posts/activity-7126906747499212800-B_AE?utm_source=share&utm_medium=member_desktop
 
 ## Economic Data Project
-You want to understand the impact of economic data like GDP, inflation rate or business climate index on your business? <br>
-Analysing your own internal business numbers, like “Turnover” for different countries, is not too difficult. It requires a Datawarehouse & PowerBI and a Data Analyst. But knowing if the changes in these “Turnover” numbers correlate to economic data, like GDP, inflation rate, population size and finally drawing meaningful conclusions is a bit more difficult. If you don’t have Data Scientists or Mathematicians in your company it is a challenge. <br>
+You want to understand the impact of economic data like GDP, inflation rate or business climate index on your business? Analysing your own internal business numbers, like “Turnover” for different countries, is not too difficult. It requires a Datawarehouse & PowerBI and a Data Analyst. But knowing if the changes in these “Turnover” numbers correlate to economic data, like GDP, inflation rate, population size and finally drawing meaningful conclusions is a bit more difficult. If you don’t have Data Scientists or Mathematicians in your company it is a challenge. <br>
 <br>
 Why is it extremely helpful to know these relationships between your “internal data” (e.g. Turnover) and “external data” (e.g. economic data)? Because it is useful for a better plannability of ordered quantities of your products, for a better estimation of financial reserves and a more efficient stock management. <br>
 <br>
-But how to approach this question? <br>
-If you are not familiar with correlation, variance, stochastic processes, simulation based mathematical models, then I recommend to simply start with a small PowerBI report like mine.   <br>
+But how to approach this question? If you are not familiar with correlation, variance, stochastic processes, simulation based mathematical models, then I recommend to simply start with a small PowerBI report like mine.   <br>
 
 My PowerBI report contains: <br>
 ➡️Integrating raw data from different external data sources (e.g. Worldbank, Ifo-Institute,…). Data cleaning, pivotization (where needed) and merging the different data sources in order to achieve one (key,value)-fact-table.  <br>
