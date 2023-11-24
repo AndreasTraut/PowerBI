@@ -77,7 +77,7 @@ Ifo-Insitute: https://www.ifo.de/ifo-zeitreihen, Series: Geschäftklimaindex (bu
 WSJ-Markets: https://www.wsj.com/market-data/quotes/index/DX/DAX/historical-prices, Series: DAX-Index, Format: CSV, File: HistoricalPrices.csv  <br>
 Internal Datasources: the orders of customers. A fact-table of orders (Fact_Orders.xlsx) and a client dimension (Clients.xlsx) with random numbers to illustrate the approach.  <br>
 <br> 
-I published my PowerBI report on novyPro, which is a nice platform for data analysts. You can open and work with my PowerBI report on the novyPro page without installing anything. If you want to download the source and coding of my work, then use the GitHub page. <br>
+I published my PowerBI report on novyPro, which is a nice platform for data analysts. You can open and work with my PowerBI report on the novyPro page without installing anything. <br>
 novyPro: https://www.novypro.com/project/economic-report <br>
  <br>
  
