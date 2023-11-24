@@ -12,14 +12,13 @@ Techniques implemented: <br>
 ➡️defining relationships between the two datasets and the places-dimension-table and the calendar in Tabular Editor<br>
 ➡️defining DAX measures: total, average, min, max<br>
 ➡️creating line and barplot and filters on places and calendar in PowerBI Desktop<br>
-
+<br>
 Datasource: https://opendata.muenchen.de/dataset/daten-der-raddauerzaehlstellen-muenchen-2022 (OpenData)<br>
-
-I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): 
-https://www.novypro.com/project/bicycle-count
-
-See also my LinkedIn post:<br>
-https://www.linkedin.com/posts/activity-7110331190351384577-Fvod?utm_source=share&utm_medium=member_desktop
+<br>
+See also my LinkedIn post: https://www.linkedin.com/posts/activity-7110331190351384577-Fvod?utm_source=share&utm_medium=member_desktop <br>
+<br>
+I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): <br>
+NovyPro: https://www.novypro.com/project/bicycle-count
 
 ## "Superstore Sales" report in PowerBI
 
@@ -33,8 +32,7 @@ Techniques implemented:<br>
 
 Datasource: https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales (OpenData Commons)
 
-See also my LinkedIn post:<br>
-https://www.linkedin.com/posts/activity-7110992649116950530-LvqS?utm_source=share&utm_medium=member_desktop
+See also my LinkedIn post: https://www.linkedin.com/posts/activity-7110992649116950530-LvqS?utm_source=share&utm_medium=member_desktop
 
 ## "Onyx Data Challenge": Youtube report in PowerBI
 
@@ -49,14 +47,14 @@ This is my participation for the "Onyx Dataset Challenge" as of November 2023. M
 The model has 24 MB, 5 Tables, 63 columns. Calculation time for the whole report in total is about 180ms for formula engine. The remaining time is mostly rendering and waiting for other visuals to complete.
 
 👉 Please click somewhere in the tables and see how the others interact!<br>
-👉 Use the "sort by" possibility to navigate through the data.
-
-I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): https://www.novypro.com/project/onyx-dataset-challenge---youtuber-
-
-Datasource: https://onyxdata.co.uk/data-dna-dataset-challenge/
-
-See also my LinkedIn post:<br>
-https://www.linkedin.com/posts/activity-7126906747499212800-B_AE?utm_source=share&utm_medium=member_desktop
+👉 Use the "sort by" possibility to navigate through the data.<br>
+<br>
+Datasource: https://onyxdata.co.uk/data-dna-dataset-challenge/ <br>
+<br>
+See also my LinkedIn post: https://www.linkedin.com/posts/activity-7126906747499212800-B_AE?utm_source=share&utm_medium=member_desktop <br>
+<br>
+I published my PowerBI report via novyPro, which is a nice platform for data analysts and where you can immediately work with the report (without installing anything): <br>
+NovyPro: https://www.novypro.com/project/onyx-dataset-challenge---youtuber-
 
 ## Economic Data Project
 You want to understand the impact of economic data like GDP, inflation rate or business climate index on your business? Analysing your own internal business numbers, like “Turnover” for different countries, is not too difficult. It requires a Datawarehouse & PowerBI and a Data Analyst. But knowing if the changes in these “Turnover” numbers correlate to economic data, like GDP, inflation rate, population size and finally drawing meaningful conclusions is a bit more difficult. If you don’t have Data Scientists or Mathematicians in your company it is a challenge. <br>
