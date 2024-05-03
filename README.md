@@ -78,5 +78,3 @@ Internal Datasources: the orders of customers. A fact-table of orders (Fact_Orde
 I published my PowerBI report on novyPro, which is a nice platform for data analysts. You can open and work with my PowerBI report on the novyPro page without installing anything. <br>
 novyPro: https://www.novypro.com/project/economic-report <br>
  <br>
- 
-
